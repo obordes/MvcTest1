@@ -22,3 +22,9 @@ select,
 textarea {
     max-width: 280px;
 }
+
+
+/* Jumbotron en rose ! */
+.jumbotron {
+    background-color: hotpink;
+}
